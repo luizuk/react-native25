@@ -27,11 +27,9 @@ You need to create a project in <a href="https://cloud.hasura.io">Hasura</a> and
 2. Start the app with a clear cache:
    ````bash
    yarn start:clear
-   	```
-   <br>
-   <br>
-   ````
-
+<br>
+<br>
+   
 You can open PRs and send ideas to improve the template. The goal here is to grow together and trade information.
 
 <br>
