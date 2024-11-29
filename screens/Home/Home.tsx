@@ -40,7 +40,7 @@ export default function HomeScreen() {
 
       <Pressable
         onPress={() => {
-          Linking.openURL("https://github.com/luizuuk/react-native25");
+          Linking.openURL("https://github.com/luizuk/react-native25");
         }}
       >
         <ThemedText
